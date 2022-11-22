@@ -63,6 +63,6 @@
   },
   "devDependencies": {
     "open-browser-webpack-plugin": "0.0.5",
-    "webpack-dashboard": "^1.0.2"
+    "webpack-dashboard": "^3.3.7"
   }
 }
